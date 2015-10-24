@@ -1,0 +1,32 @@
+{
+  "name": "monospace-char-width",
+  "version": "1.0.0",
+  "description": "[![ISC License](https://img.shields.io/badge/license-ISC-blue.svg?style=flat)](LICENSE.md) [![js-standard-style](https://img.shields.io/badge/code%20style-standard-brightgreen.svg?style=flat)](http://standardjs.com/) [![npm version](https://badge.fury.io/js/monospace-char-width.svg)](https://badge.fury.io/js/monospace-char-width)",
+  "main": "index.js",
+  "scripts": {
+    "test": "tape test/**/*.js; standard"
+  },
+  "author": "Martin Heidegger <martin.heidegger@gmail.com>",
+  "keywords": [
+    "unicode",
+    "visualwidth",
+    "terminal"
+  ],
+  "license": "ISC",
+  "dependencies": {},
+  "devDependencies": {
+    "standard": "^5.3.1",
+    "tape": "^4.2.2"
+  },
+  "directories": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/martinheidegger/monospace-char-width.git"
+  },
+  "bugs": {
+    "url": "https://github.com/martinheidegger/monospace-char-width/issues"
+  },
+  "homepage": "https://github.com/martinheidegger/monospace-char-width#readme"
+}
