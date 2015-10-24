@@ -6,7 +6,7 @@
 
 `monospace-char-width` is a JavaScript CommonJS package that deals with the fact that some characters in monospace font environments (like terminals) are displayed with the size of two characters while others occupy the space of one character.
 
-It is derived (forked) from [visualwidth-js](https://github.com/tokuhirom/visualwidth-js) which is custom implemented and seems better tested with japanese than the similar package [wcwidth](https://github.com/timoxley/wcwidth) which is a derivate of [http://www.cl.cam.ac.uk/~mgk25/ucs/wcwidth.c]. It differes from both of those packages by only returning the width of one character (as integer!) which is important for performance
+It is derived (forked) from [visualwidth-js](https://github.com/tokuhirom/visualwidth-js) which is custom implemented and seems better tested with japanese than the similar package [wcwidth](https://github.com/timoxley/wcwidth) which is a derivate of [wcwidth.c](http://www.cl.cam.ac.uk/~mgk25/ucs/wcwidth.c). It differes from both of those packages by only returning the width of one character (as integer!) which is important for performance
 reasons.
 
 
