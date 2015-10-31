@@ -10,7 +10,15 @@
   "keywords": [
     "unicode",
     "visualwidth",
-    "terminal"
+    "terminal",
+    "wide character",
+    "wc",
+    "wide character string",
+    "wcs",
+    "terminal",
+    "width",
+    "wcwidth",
+    "wcswidth"
   ],
   "license": "ISC",
   "dependencies": {},
