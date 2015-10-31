@@ -1,6 +1,6 @@
 {
   "name": "monospace-char-width",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Derived from visualwidth-js this package identifies the size of one characterCode in terminals",
   "main": "index.js",
   "scripts": {
